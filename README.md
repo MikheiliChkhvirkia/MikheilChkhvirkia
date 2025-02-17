@@ -17,18 +17,13 @@
 
 ## 🛠 **Tech Stack**
 💻 **Backend:**  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)  
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)  
-![REST](https://img.shields.io/badge/-REST-000000?logo=rest&logoColor=white&style=for-the-badge)  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge) ![REST](https://img.shields.io/badge/-REST-000000?logo=rest&logoColor=white&style=for-the-badge)  
 
 🗄️ **Databases:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)  
 
 ⚙ **DevOps & Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
-![CI/CD](https://img.shields.io/badge/-CI/CD-2C2255?logo=github-actions&logoColor=white&style=for-the-badge)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) ![CI/CD](https://img.shields.io/badge/-CI/CD-2C2255?logo=github-actions&logoColor=white&style=for-the-badge)  
 
 ---
 
@@ -36,8 +31,7 @@
 ### ⚔️ **[Gladiator API](https://github.com/MikheiliChkhvirkia/GladiatorApi)**
 🔹 **Custom Gladiator Battle System**  
 🔹 **C# .NET | REST API | MySQL**  
-🔹 **Optimized DB Queries & Business Logic**  
-[Live Demo](https://yourproject.com)  
+🔹 **Optimized DB Queries & Business Logic**
 
 ### ⚡ **[Electricity Data Aggregator](https://github.com/MikheiliChkhvirkia/ElectricityDataAggregator)**
 🔹 **Automated Data Processing from CSV to MySQL**  
@@ -51,8 +45,7 @@
 ---
 
 ## 🔥 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikheiliChkhvirkia&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikheiliChkhvirkia&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikheiliChkhvirkia&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikheiliChkhvirkia&layout=compact&theme=radical)  
 
 ---
 

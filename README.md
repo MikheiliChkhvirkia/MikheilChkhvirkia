@@ -44,11 +44,6 @@
 
 ---
 
-## 🔥 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikheiliChkhvirkia&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikheiliChkhvirkia&layout=compact&theme=radical)  
-
----
-
 ## 📈 **CI/CD & Performance Metrics**
 🔹 **Optimized DB Queries for Speed & Efficiency**  
 🔹 **Unit Testing for API Reliability**  

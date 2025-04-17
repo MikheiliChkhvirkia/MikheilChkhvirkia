@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mikheil-chkhvirkia-a1809421a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/MikheiliChkhvirkia)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=flat&logo=web)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=flat&logo=web)](*)
 
 ---
 

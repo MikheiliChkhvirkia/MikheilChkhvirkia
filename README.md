@@ -31,7 +31,6 @@
 ### ⚔️ **[Gladiator API](https://github.com/MikheiliChkhvirkia/GladiatorApi)**
 🔹 **Custom Gladiator Battle System**  
 🔹 **C# .NET | REST API | MySQL**  
-🔹 **Optimized DB Queries & Business Logic**
 
 ### ⚡ **[Electricity Data Aggregator](https://github.com/MikheiliChkhvirkia/ElectricityDataAggregator)**
 🔹 **Automated Data Processing from CSV to MySQL**  
@@ -41,6 +40,10 @@
 ### 🧠 **Face Recognition [YouTube Demo](https://youtu.be/rWIgAwY9TUQ)**
 🔹 **C# | OpenCV | EmguCV**  
 🔹 **Facial Recognition & Identity Detection**  
+
+### 🧠 **Mini AI Bobby [YouTube Demo]([https://youtu.be/rWIgAwY9TUQ](https://www.youtube.com/watch?v=Z4Vq2lqUEm4))**
+🔹 **C# | OpenCV | EmguCV**  
+🔹 **Speech Recognition**  
 
 ---
 
@@ -55,7 +58,7 @@
 **გამარჯობა!**  
 👨‍💻 მე ვარ **მიხეილ ჩხვირკია**, **Back-End დეველოპერი** **C# და .NET** ტექნოლოგიებით.  
 📍 ვმუშაობ **REST API-ებზე, მონაცემთა ბაზებზე, და მაღალი ხარისხის სისტემებზე.**  
-🔗 [მეტი ინფორმაცია](https://yourportfolio.com)  
+🔗 [მეტი ინფორმაცია](*)  
 
 ---
 

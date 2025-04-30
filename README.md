@@ -28,6 +28,31 @@
 ---
 
 ## 📌 **Featured Projects**
+### 🛒 [chemifasi.ge](https://chemifasi.ge) – Georgian Price Comparison Platform
+
+🔍 **chemifasi.ge** is a full-stack web application designed to help Georgian users find the best prices across various online stores — all in one place. Built entirely by me using **React (Frontend)** and **.NET C# (Backend)**, this platform delivers a seamless, responsive, and high-performance user experience.
+
+#### 🔧 Key Features:
+- 🧠 **AI-enhanced search** to provide optimized and relevant results from multiple stores
+- 🛍 **Price comparison** from top Georgian e-commerce and pharmacy websites
+- ⚡ **Fast & responsive UI** built with React and React Query
+- 🔐 **Secure & scalable backend** with .NET 8, REST APIs, and clean architecture
+- 🧩 **Modular scraper services** per store with dynamic product parsing
+- 📊 **Per-store result counts**, sorting, and filtering (by price, store, etc.)
+- 🖼 **Dynamic banners**, logos, and search hints from live store data
+- 🗂 **Clean architecture** using Onion Pattern and Mediator Pattern
+- 🌍 Built for Georgian users, with performance and UX in mind
+
+#### 🛠️ Tech Stack:
+- **Frontend:** React, React Query, TailwindCSS
+- **Backend:** .NET C# 8, RESTful APIs, MediatR, DI
+- **Database:** MySQL (via Entity Framework Core)
+- **DevOps:** GitHub Actions for CI/CD, Docker-ready architecture
+
+---
+
+🧠 Want to save money and simplify shopping in Georgia? Visit: [https://chemifasi.ge](https://chemifasi.ge)
+
 ### ⚔️ **[Gladiator API](https://github.com/MikheiliChkhvirkia/GladiatorApi)**
 🔹 **Custom Gladiator Battle System**  
 🔹 **C# .NET | REST API | MySQL**  
